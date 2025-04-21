@@ -10,7 +10,7 @@ This project uses the Titanic dataset, which contains information about passenge
 4. age: The age of the passenger.
 
 ## Methodology
-1. Data Cleaning: Handle missing values by using mode for categorical columns and median for numerical columns. Remove any duplicate records to maintain data quality.
+1. Data Cleaning: Handle missing values by using mode for categorical columns and median for numerical columns. Remove duplicate records to maintain data quality.
 2. Exploratory Data Analysis (EDA): Analyze the distributions of key variables and explore relationships between different factors influencing survival, such as age and gender.
 3. Data Visualization: Create visualizations to support findings and make it easier to interpret the data (e.g., pie charts, bar plots, heatmaps).
 
